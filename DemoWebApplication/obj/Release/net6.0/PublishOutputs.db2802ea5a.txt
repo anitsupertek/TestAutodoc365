@@ -1,0 +1,7 @@
+C:\Users\Administrator\Source\Repos\anitsupertek\TestAutodoc365\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\DemoWebApplication.exe
+C:\Users\Administrator\Source\Repos\anitsupertek\TestAutodoc365\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Administrator\Source\Repos\anitsupertek\TestAutodoc365\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Administrator\Source\Repos\anitsupertek\TestAutodoc365\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\DemoWebApplication.dll
+C:\Users\Administrator\Source\Repos\anitsupertek\TestAutodoc365\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\DemoWebApplication.deps.json
+C:\Users\Administrator\Source\Repos\anitsupertek\TestAutodoc365\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\DemoWebApplication.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\anitsupertek\TestAutodoc365\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\DemoWebApplication.pdb

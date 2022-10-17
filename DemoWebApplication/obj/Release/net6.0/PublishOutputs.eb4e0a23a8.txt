@@ -1,0 +1,7 @@
+D:\ST\Demo\DemoWebApplication\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\DemoWebApplication.exe
+D:\ST\Demo\DemoWebApplication\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\ST\Demo\DemoWebApplication\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\ST\Demo\DemoWebApplication\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\DemoWebApplication.dll
+D:\ST\Demo\DemoWebApplication\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\DemoWebApplication.deps.json
+D:\ST\Demo\DemoWebApplication\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\DemoWebApplication.runtimeconfig.json
+D:\ST\Demo\DemoWebApplication\DemoWebApplication\obj\Release\net6.0\PubTmp\Out\DemoWebApplication.pdb
